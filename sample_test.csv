@@ -1,0 +1,4 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats
+Maruti Swift Dzire VDI,2015,60000,Diesel,Individual,Manual,First Owner,18.9 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5
+BMW X5,2020,10000,Diesel,Dealer,Automatic,First Owner,15.0 kmpl,2993 CC,265 bhp,620Nm@ 2000rpm,5
+Hyundai Santro,2008,250000,Petrol,Individual,Manual,Fourth & Above Owner,15.0 kmpl,1086 CC,63 bhp,96Nm@ 3000rpm,5
